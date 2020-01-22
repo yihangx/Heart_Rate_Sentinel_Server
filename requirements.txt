@@ -1,0 +1,9 @@
+dnspython
+pymodm
+numpy
+flask
+pytest
+pymodm
+sphinx
+sendgrid
+pytest-pep8
